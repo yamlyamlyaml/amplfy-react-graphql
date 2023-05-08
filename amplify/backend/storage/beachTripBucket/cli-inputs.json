@@ -1,0 +1,14 @@
+{
+  "resourceName": "beachTripBucket",
+  "policyUUID": "91632439",
+  "bucketName": "amplfyreactgraphql0bae23b468e44bba897cb6df6d64d",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
